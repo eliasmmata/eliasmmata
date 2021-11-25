@@ -19,13 +19,12 @@
   <img align="center" alt="elias-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="elias-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="elias-saas" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-
   <img align="center" alt="elias-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="elias-wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
-
- 
   <img align="right" alt="elias-pic" height="150" style="border-radius:50px;" src="https://www.gravatar.com/avatar/bac84e1c091f2240160d28bd55e3aac4?width=676&height=676">
-  
+</div>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eliasmmata">
 </div>
 
   ##
