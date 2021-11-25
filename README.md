@@ -24,7 +24,9 @@
   <img align="right" alt="elias-pic" height="150" style="border-radius:50px;" src="https://www.gravatar.com/avatar/bac84e1c091f2240160d28bd55e3aac4?width=676&height=676">
 </div>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eliasmmata">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eliasmmata" />
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eliasmmata)](https://github.com/eliasmmata/github-readme-stats)
+
 </div>
 
   ##
