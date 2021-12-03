@@ -26,7 +26,7 @@
 <br>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eliasmmata" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eliasmmata&v=3" />
 </div>
 <br>
 
